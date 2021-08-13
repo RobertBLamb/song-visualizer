@@ -1,0 +1,15 @@
+#show-options{
+    background: blue;
+    color: #fff;
+    display: block;
+    width: 280px;
+    font-size: 24;
+    text-transform: uppercase;
+    padding: 10px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#defaultCanvas0{
+    cursor: default;
+}
